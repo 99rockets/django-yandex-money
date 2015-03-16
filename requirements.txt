@@ -1,0 +1,6 @@
+lxml==3.4.2
+webtest==2.0.18
+aniso8601
+Django>1.7
+django-annoying==0.8.0
+django-webtest==1.7.7
